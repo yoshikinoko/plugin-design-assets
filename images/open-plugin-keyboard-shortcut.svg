@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="263.854" height="81.811" viewBox="0 0 263.854 81.811">
+  <defs>
+    <filter id="Rectangle_138535" x="0" y="0.14" width="100" height="81" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_138536" x="100.074" y="0" width="81.811" height="81.811" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_138537" x="182.043" y="0" width="81.811" height="81.811" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_68643" data-name="Group 68643" transform="translate(13.773 -24.798)">
+    <g transform="matrix(1, 0, 0, 1, -13.77, 24.8)" filter="url(#Rectangle_138535)">
+      <rect id="Rectangle_138535-2" data-name="Rectangle 138535" width="70" height="51" rx="5" transform="translate(15 10.14)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -13.77, 24.8)" filter="url(#Rectangle_138536)">
+      <rect id="Rectangle_138536-2" data-name="Rectangle 138536" width="51.811" height="51.811" rx="5" transform="translate(115.07 10)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -13.77, 24.8)" filter="url(#Rectangle_138537)">
+      <rect id="Rectangle_138537-2" data-name="Rectangle 138537" width="51.811" height="51.811" rx="5" transform="translate(197.04 10)" fill="#fff"/>
+    </g>
+    <text id="_" data-name="⇧" transform="translate(34.227 64.938)" fill="#262626" font-size="11" font-family="LucidaGrande, Lucida Grande"><tspan x="-5.5" y="0">⇧</tspan></text>
+    <text id="_2" data-name="⌘" transform="translate(126.407 64.357)" fill="#262626" font-size="11" font-family="LucidaGrande, Lucida Grande"><tspan x="-5.5" y="0">⌘</tspan></text>
+    <text id="M" transform="translate(208.149 63.357)" fill="#262626" font-size="10" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="-4.14" y="0">M</tspan></text>
+    <text id="_3" data-name="+" transform="translate(80.422 63.624)" fill="#262626" font-size="18" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">+</tspan></text>
+    <text id="_4" data-name="+" transform="translate(162.391 63.624)" fill="#262626" font-size="18" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">+</tspan></text>
+  </g>
+</svg>

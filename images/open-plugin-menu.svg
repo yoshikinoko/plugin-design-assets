@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="209.155" height="153.271" viewBox="0 0 209.155 153.271">
+  <defs>
+    <filter id="Path_61111" x="0" y="0.467" width="209.155" height="152.803" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_68724" data-name="Group 68724" transform="translate(-824.658 -488.22)">
+    <g id="Group_68640" data-name="Group 68640" transform="translate(846.773 488.22)">
+      <rect id="Rectangle_138526" data-name="Rectangle 138526" width="47.498" height="17.967" fill="#3991fd"/>
+      <text id="Plugins" transform="translate(5.532 11.69)" fill="#fff" font-size="9" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Plugins</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 824.66, 488.22)" filter="url(#Path_61111)">
+      <path id="Path_61111-2" data-name="Path 61111" d="M0,0H164.155V102.9a4.9,4.9,0,0,1-4.9,4.9H4.9A4.9,4.9,0,0,1,0,102.9Z" transform="translate(22.5 17.97)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_147819" data-name="Rectangle 147819" width="164.285" height="17.967" transform="translate(846.773 547)" fill="#3991fd"/>
+    <g id="Group_68641" data-name="Group 68641" transform="translate(862.289 512.187)">
+      <text id="Plugin_1" data-name="Plugin 1" transform="translate(0 9)" font-size="9" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">Plugin 1</tspan></text>
+      <text id="Plugin_2" data-name="Plugin 2" transform="translate(0 26.967)" font-size="9" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">Plugin 2</tspan></text>
+      <text id="Your_Plugin" data-name="Your Plugin" transform="translate(0 47.813)" fill="#fff" font-size="9" font-family="AdobeClean-Bold, Adobe Clean" font-weight="700"><tspan x="0" y="0">Your Plugin</tspan></text>
+      <text id="All_Plugins" data-name="All Plugins" transform="translate(0 71.885)" fill="#222" font-size="9" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">All Plugins</tspan></text>
+      <text id="Manage_Plugins" data-name="Manage Plugins" transform="translate(0 89.852)" fill="#222" font-size="9" font-family="AdobeClean-Regular, Adobe Clean"><tspan x="0" y="0">Manage Plugins</tspan></text>
+    </g>
+    <g id="Group_68642" data-name="Group 68642" transform="translate(846.773 569.89)">
+      <rect id="Rectangle_138528" data-name="Rectangle 138528" width="164.155" height="0.817" transform="translate(0 0)" fill="#ababab" opacity="0.247"/>
+    </g>
+  </g>
+</svg>

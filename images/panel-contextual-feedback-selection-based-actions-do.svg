@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="781" height="960" viewBox="0 0 781 960">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="7.865" height="4.685" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_68742" data-name="Group 68742" transform="translate(-87 -1461)">
+    <rect id="Color_Fill" data-name="Color Fill" width="781" height="960" rx="4" transform="translate(87 1461)" fill="#fff"/>
+    <g id="Group_68741" data-name="Group 68741">
+      <g id="Group_68739" data-name="Group 68739">
+        <rect id="Background" width="534" height="912" transform="translate(311 1485)" fill="#f5f5f5"/>
+        <g id="Scrolling" transform="translate(0 -1180)">
+          <path id="Path_60984" data-name="Path 60984" d="M0,0H194V912H0Z" transform="translate(111 2665)" fill="#f4f6fc"/>
+          <path id="rectangle-4" d="M0,1146.679Z" transform="translate(293.568 1593.594)" fill="#d5d5d5"/>
+          <rect id="Placment_Frame" data-name="Placment Frame" width="170" height="32" transform="translate(123.001 2759)" fill="none"/>
+          <text id="Section_Heading" data-name="Section Heading" transform="translate(144.957 2690.98)" fill="#496ec2" font-size="11" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">PLUGINS</tspan></text>
+          <path id="Path_60980" data-name="Path 60980" d="M0,0,4.843,4.843,0,9.686" transform="translate(130.09 2691.554) rotate(180)" fill="none" stroke="#496ec2" stroke-linecap="round" stroke-width="2"/>
+          <path id="rectangle-4-2" data-name="rectangle-4" d="M0,1146.679Z" transform="translate(295.643 1593.594)" fill="#d5d5d5"/>
+          <line id="Line_6075" data-name="Line 6075" x2="194.001" transform="translate(111 2751.5)" fill="none" stroke="#dae2f4" stroke-width="1"/>
+          <circle id="XMLID_10_" cx="1.543" cy="1.543" r="1.543" transform="translate(280.375 2727.92)" fill="#496ec2"/>
+          <circle id="XMLID_9_" cx="1.543" cy="1.543" r="1.543" transform="translate(285.003 2727.92)" fill="#496ec2"/>
+          <circle id="XMLID_8_" cx="1.543" cy="1.543" r="1.543" transform="translate(289.631 2727.92)" fill="#496ec2"/>
+          <rect id="Rectangle_147505" data-name="Rectangle 147505" width="194" height="12" transform="translate(111.002 3565)" fill="#f4f6fc"/>
+          <line id="Line_6217" data-name="Line 6217" x2="194.001" transform="translate(305.002 3528.5) rotate(180)" fill="none" stroke="#dae2f4" stroke-width="1"/>
+          <text id="by_line" data-name="by line" transform="translate(119 2733.091)" fill="#496ec2" font-size="11" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Plugin Name</tspan></text>
+          <rect id="drag" width="4" height="112" rx="2" transform="translate(298 2855)" fill="#496ec2"/>
+          <rect id="Rectangle_147521" data-name="Rectangle 147521" width="168.707" height="58.359" transform="translate(123.019 2833)" fill="#dae2f4"/>
+          <rect id="Rectangle_147522" data-name="Rectangle 147522" width="168.707" height="58.359" transform="translate(123.019 2899)" fill="#dae2f4"/>
+          <rect id="Rectangle_147523" data-name="Rectangle 147523" width="168.707" height="58.359" transform="translate(123.019 2965)" fill="#dae2f4"/>
+          <rect id="Rectangle_147524" data-name="Rectangle 147524" width="168.707" height="58.359" transform="translate(123.019 3031)" fill="#dae2f4"/>
+          <g id="Rectangle_147530" data-name="Rectangle 147530" transform="translate(123 3097)" fill="#dae2f4" stroke="#496ec2" stroke-width="1" stroke-dasharray="2 2">
+            <rect width="168.707" height="202.359" stroke="none"/>
+            <rect x="0.5" y="0.5" width="167.707" height="201.359" fill="none"/>
+          </g>
+          <text id="by_line-2" data-name="by line" transform="translate(134 3182)" fill="#496ec2" font-size="12" font-family="SFProText-Regular, SF Pro Text"><tspan x="13.044" y="11">Select the object you </tspan><tspan x="14.942" y="26">would like to upload.</tspan></text>
+          <g id="Group_68504" data-name="Group 68504" transform="translate(-214 -2369)" opacity="0.5">
+            <g id="Dropdown" transform="translate(338 5696)">
+              <g id="Background-2" data-name="Background" fill="#dae2f4" stroke="#b0c0e6" stroke-width="1">
+                <rect width="169.636" height="24" rx="3" stroke="none"/>
+                <rect x="0.5" y="0.5" width="168.636" height="23" rx="2.5" fill="none"/>
+              </g>
+              <text id="Label" transform="translate(12 16)" fill="#496ec2" font-size="11" font-family="SFProText-RegularItalic, SF Pro Text" font-style="italic"><tspan x="0" y="0">PNG</tspan></text>
+              <g id="SP_Dropdown_Xs" transform="translate(151.636 11)" clip-path="url(#clip-path)">
+                <path id="Fill-8" d="M5.53,7.48,8.71,4.29A.75.75,0,0,0,7.65,3.23L5,5.88,2.34,3.23A.75.75,0,0,0,1.28,4.29L4.47,7.48a.754.754,0,0,0,1.06,0" transform="translate(-1.063 -3.013)" fill="#496ec2" fill-rule="evenodd"/>
+              </g>
+            </g>
+            <text id="label-2" data-name="label" transform="translate(338 5690)" fill="#496ec2" font-size="9" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Export as</tspan></text>
+          </g>
+          <rect id="Rectangle_147805" data-name="Rectangle 147805" width="168.707" height="58.359" transform="translate(123.019 2767)" fill="#dae2f4"/>
+          <g id="Group_68578" data-name="Group 68578" transform="translate(-1 34)">
+            <rect id="Rectangle_147811" data-name="Rectangle 147811" width="270.661" height="276.359" rx="135.331" transform="translate(421 2790)" fill="#edd1d0"/>
+            <g id="Group_68576" data-name="Group 68576" transform="translate(0 42.249)">
+              <path id="Rectangle_147534" data-name="Rectangle 147534" d="M0,0H0A192.539,192.539,0,0,1,192.539,192.539v23a13.7,13.7,0,0,1-13.7,13.7H13.7A13.7,13.7,0,0,1,0,215.54V0A0,0,0,0,1,0,0Z" transform="translate(469.72 3031.83) rotate(-90)" fill="#ff907c"/>
+              <path id="Rectangle_147809" data-name="Rectangle 147809" d="M0,0H139.66A114.768,114.768,0,0,1,254.428,114.768v0a0,0,0,0,1,0,0H8.007A8.007,8.007,0,0,1,0,106.761V0A0,0,0,0,1,0,0Z" transform="translate(584.19 3031.83) rotate(-90)" fill="#ffaf7c"/>
+              <path id="Rectangle_147810" data-name="Rectangle 147810" d="M1.308,0H126.36a66.179,66.179,0,0,1,66.179,66.179v0a1.308,1.308,0,0,1-1.308,1.308H1.308A1.308,1.308,0,0,1,0,66.179V1.308A1.308,1.308,0,0,1,1.308,0Z" transform="translate(631.471 3031.83) rotate(-90)" fill="#ffd289"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_68740" data-name="Group 68740">
+        <g id="Scrolling-2" data-name="Scrolling" transform="translate(7 -830.625)">
+          <text id="Selection_prompt_Guide_the_user_through_prompts_in_the_UI_to_let_them_know_how_they_can_best_use_the_plugin." data-name="Selection prompt
+Guide the user through prompts in the UI to let them know how they can best use the plugin." transform="translate(364 2819.005)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="12">Selection prompt</tspan><tspan font-family="Helvetica" font-weight="400"><tspan x="0" y="32">Guide the user through </tspan><tspan x="0" y="52">prompts in the UI to let </tspan><tspan x="0" y="72">them know how they can </tspan><tspan x="0" y="92">best use the plugin.</tspan></tspan></text>
+          <path id="Path_60982" data-name="Path 60982" d="M0,.393H30.668" transform="translate(327.5 2844.815)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+          <line id="Line_6220" data-name="Line 6220" x2="23" transform="translate(304.5 2751.5)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+          <path id="Path_60981" data-name="Path 60981" d="M0,0,.191,193.62" transform="translate(327.5 2751.005)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+          <line id="Line_6221" data-name="Line 6221" x2="23" transform="translate(304.5 2944.14)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+        </g>
+        <g id="Group_68507" data-name="Group 68507">
+          <text id="Disabled_actions_Only_block_actions_the_user_doesn_t_have_access_to." data-name="Disabled actions
+Only block actions the user doesn’t have access to." transform="translate(371 2251.19)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="12">Disabled actions</tspan><tspan font-family="Helvetica" font-weight="400"><tspan x="0" y="32">Only block actions the user </tspan><tspan x="0" y="52">doesn’t have access to.</tspan></tspan></text>
+          <g id="Group_68506" data-name="Group 68506">
+            <path id="Path_60982-2" data-name="Path 60982" d="M0,0H30.1" transform="translate(334.5 2269.354)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+            <path id="Path_60981-2" data-name="Path 60981" d="M0,0,.191,48" transform="translate(334.5 2349)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+            <line id="Line_6221-2" data-name="Line 6221" x2="23" transform="translate(311.5 2396.514)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+          </g>
+          <g id="Group_68508" data-name="Group 68508" transform="translate(0 -203)">
+            <line id="Line_6220-2" data-name="Line 6220" x2="23" transform="translate(311.5 2349.495)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+            <path id="Path_60981-3" data-name="Path 60981" d="M0,0V250.707" transform="translate(334.5 2349)" fill="none" stroke="#4b4b4b" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

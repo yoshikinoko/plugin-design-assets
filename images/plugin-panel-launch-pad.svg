@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="540" height="960" viewBox="0 0 540 960">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="14" height="14" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1243c9"/>
+      <stop offset="1" stop-color="#8943f9"/>
+    </linearGradient>
+    <clipPath id="clip-path-5">
+      <path id="Path_61010" data-name="Path 61010" d="M4.31-7.07,7.05-1.48a.225.225,0,0,0,.32.1l1.01-.56a.285.285,0,0,0,.11-.36L6-7.88H9.75c.14,0,.17-.08.07-.18L1-17V-4.13c0,.14.08.17.18.08Z" transform="translate(0 18)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Path_61009" data-name="Path 61009" d="M0,14H32V-18H0Z" transform="translate(0 18)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Path_61105" data-name="Path 61105" d="M6.164,0c3.4,0,6.164,5.4,6.164,12.068S0,18.733,0,12.068,2.76,0,6.164,0Z" fill="#dae2f4"/>
+    </clipPath>
+  </defs>
+  <g id="Group_68732" data-name="Group 68732" transform="translate(-1870 -1705)">
+    <g id="Group_68731" data-name="Group 68731">
+      <g id="Group_68728" data-name="Group 68728">
+        <rect id="Color_Fill" data-name="Color Fill" width="242" height="960" rx="4" transform="translate(2168 1705)" fill="#fff"/>
+        <g id="Component" transform="translate(2192 1729)">
+          <g id="Panel_Background" data-name="Panel Background">
+            <rect id="Background" width="194" height="912" fill="#f5f5f5"/>
+            <rect id="Bottom_Vertical_Space" data-name="Bottom Vertical Space" width="194" height="24" transform="translate(0 888)" fill="#f5f5f5"/>
+            <rect id="Divider" width="194" height="2" transform="translate(0 910)" fill="#ddd"/>
+            <rect id="Heading_Vertical_Space" data-name="Heading Vertical Space" width="194" height="48" fill="#f5f5f5"/>
+            <text id="Section_Heading" data-name="Section Heading" transform="translate(12 30)" fill="#8e8e8e" font-size="9" font-family="SFProText-Regular, SF Pro Text" letter-spacing="0.12em"><tspan x="0" y="0">PLUGINS</tspan></text>
+          </g>
+          <g id="Add_Icon" data-name="Add Icon" transform="translate(166 20)" clip-path="url(#clip-path)">
+            <g id="target_area_14px" data-name="target area 14px">
+              <rect id="Rectangle_147390" data-name="Rectangle 147390" width="14" height="14" fill="#c4c4c4" opacity="0"/>
+            </g>
+            <path id="Path_61100" data-name="Path 61100" d="M9.435-19.807H5.871v-3.564A.628.628,0,0,0,5.242-24a.628.628,0,0,0-.629.629v3.564H.629A.628.628,0,0,0,0-19.178a.628.628,0,0,0,.629.629H4.613v3.984a.628.628,0,0,0,.629.629.628.628,0,0,0,.629-.629v-3.984H9.435a.628.628,0,0,0,.629-.629.628.628,0,0,0-.629-.629" transform="translate(1.995 25.97)" fill="#666" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_68558" data-name="Group 68558" transform="translate(1779 1267)">
+        <rect id="Background-2" data-name="Background" width="170" height="34" rx="2" transform="translate(425 632)" fill="#fff"/>
+        <text id="Vidz" transform="translate(459 653)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Vidz</tspan></text>
+        <g id="Plugin_Icon" data-name="Plugin Icon" transform="translate(355 -739)">
+          <g id="Background-3" data-name="Background" transform="translate(75 1376)" fill="none" stroke="#e3e3e3" stroke-width="1">
+            <rect width="24" height="24" rx="2" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="23" rx="1.5" fill="none"/>
+          </g>
+          <circle id="Ellipse_20158" data-name="Ellipse 20158" cx="5" cy="5" r="5" transform="translate(82 1383)" fill="#d10061"/>
+        </g>
+        <rect id="Background-4" data-name="Background" width="170" height="34" rx="2" transform="translate(425 746)" fill="#fff"/>
+        <text id="Cleanups" transform="translate(459 767)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Cleanups</tspan></text>
+        <g id="Plugin_Icon-2" data-name="Plugin Icon" transform="translate(333 752)">
+          <rect id="Background-5" data-name="Background" width="24" height="24" rx="2" transform="translate(97 -1)" fill="url(#linear-gradient)"/>
+          <path id="Path_60960" data-name="Path 60960" d="M0,6.974H8.5V11.81l-2.754,2.6H2.6A2.6,2.6,0,0,1,0,11.81Z" transform="translate(111.088 3.399) rotate(45)" fill="#fff" opacity="0.7"/>
+          <rect id="Rectangle_147493" data-name="Rectangle 147493" width="8.503" height="6.535" transform="translate(111.088 3.399) rotate(45)" fill="#fff"/>
+        </g>
+        <g id="Dropdown_-_Chevron" data-name="Dropdown - Chevron" transform="translate(576 756)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_147391" data-name="Rectangle 147391" width="14" height="14" fill="#fff" opacity="0"/>
+          <path id="Dropdown" d="M0,4,4,0,8,4" transform="translate(9 3) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <rect id="Background-6" data-name="Background" width="170" height="34" rx="2" transform="translate(425 594)" fill="#fff"/>
+        <text id="Copy_Code" data-name="Copy Code" transform="translate(459 615)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Copy Code</tspan></text>
+        <g id="Plugin_icon-3" data-name="Plugin icon" transform="translate(289 -768)">
+          <rect id="Background-7" data-name="Background" width="24" height="24" rx="2" transform="translate(141 1367)" fill="#0da3d0"/>
+          <g id="Group_68322" data-name="Group 68322">
+            <path id="Rectangle_147500" data-name="Rectangle 147500" d="M0,0H0A11,11,0,0,1,11,11v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(144 1377)" fill="#fff"/>
+            <path id="Rectangle_147501" data-name="Rectangle 147501" d="M0,0H7A11,11,0,0,1,18,11v6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(144 1371)" fill="#fff" opacity="0.4"/>
+          </g>
+        </g>
+        <rect id="Background-8" data-name="Background" width="170" height="34" rx="2" transform="translate(425 708)" fill="#fff"/>
+        <text id="Fill_Content" data-name="Fill Content" transform="translate(459 729)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Fill Content</tspan></text>
+        <g id="Plugin_Icon-4" data-name="Plugin Icon" transform="translate(333 676)">
+          <rect id="Background-9" data-name="Background" width="24" height="24" rx="2" transform="translate(97 37)" fill="#409af5"/>
+          <path id="Rectangle_147490" data-name="Rectangle 147490" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(104.582 43.582)" fill="#cce6ff" opacity="0.3"/>
+          <path id="Rectangle_147491" data-name="Rectangle 147491" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(106.251 45.251)" fill="#cce6ff" opacity="0.3"/>
+          <path id="Path_60959" data-name="Path 60959" d="M1.669,0H8.344V8.344H0V1.669A1.669,1.669,0,0,1,1.669,0Z" transform="translate(107.92 46.92)" fill="#cce6ff" opacity="0.3"/>
+          <path id="Rectangle_147494" data-name="Rectangle 147494" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(107.119 46.119)" fill="#cce6ff" opacity="0.3"/>
+          <path id="Rectangle_147495" data-name="Rectangle 147495" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(108.788 47.788)" fill="#cce6ff" opacity="0.3"/>
+          <path id="Rectangle_147496" data-name="Rectangle 147496" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(109.656 48.656)" fill="#cce6ff" opacity="0.3"/>
+          <path id="Rectangle_147497" data-name="Rectangle 147497" d="M2,0H8.344a0,0,0,0,1,0,0V6.344a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(111.325 50.325)" fill="#cce6ff" opacity="0.3"/>
+        </g>
+        <rect id="Background-10" data-name="Background" width="170" height="86" rx="2" transform="translate(425 504)" fill="#fff"/>
+        <text id="ProTally" transform="translate(459 524)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">ProTally</tspan></text>
+        <rect id="Background-11" data-name="Background" width="170" height="34" rx="2" transform="translate(425 670)" fill="#fff"/>
+        <text id="Mockit" transform="translate(459 691)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Mockit</tspan></text>
+        <g id="Background-12" data-name="Background" transform="translate(430 675)" fill="#fff" stroke="#e3e3e3" stroke-width="1">
+          <rect width="24" height="24" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="23" height="23" rx="1.5" fill="none"/>
+        </g>
+        <g id="Plugin_Icon-5" data-name="Plugin Icon" transform="translate(343 52)">
+          <text id="M" transform="translate(99 642)" fill="#6264d2" font-size="20" font-family="GillSans-Bold, Gill Sans" font-weight="700"><tspan x="-9.58" y="0">M</tspan></text>
+        </g>
+        <rect id="Background-13" data-name="Background" width="170" height="34" rx="2" transform="translate(425 784)" fill="#fff"/>
+        <text id="Plugin_Name" data-name="Plugin Name" transform="translate(459 805)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Plugin Name</tspan></text>
+        <g id="Dropdown_-_Chevron-2" data-name="Dropdown - Chevron" transform="translate(576 794)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_147391-2" data-name="Rectangle 147391" width="14" height="14" fill="#fff" opacity="0"/>
+          <path id="Dropdown-2" data-name="Dropdown" d="M0,4,4,0,8,4" transform="translate(9 3) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <rect id="Rectangle_147391-3" data-name="Rectangle 147391" width="14" height="14" transform="translate(576 514)" fill="#fff" opacity="0"/>
+        <g id="Dropdown_-_Chevron-3" data-name="Dropdown - Chevron" transform="translate(590 514) rotate(90)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_147391-4" data-name="Rectangle 147391" width="14" height="14" fill="#fff" opacity="0"/>
+          <path id="Dropdown-3" data-name="Dropdown" d="M0,4,4,0,8,4" transform="translate(9 3) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <rect id="hover" width="170" height="24" rx="2" transform="translate(425 566)" fill="rgba(45,45,45,0.04)"/>
+        <text id="Upload_to_a_project" data-name="Upload to a project" transform="translate(430 558)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Upload to a project</tspan></text>
+        <text id="View_projects" data-name="View projects" transform="translate(430 582)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">View projects</tspan></text>
+        <text id="_O" data-name="⌥⌘O" transform="translate(590 582)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="-26.265" y="0">⌥⌘O</tspan></text>
+        <line id="Line_6226" data-name="Line 6226" x2="160" transform="translate(430 538.5)" fill="none" stroke="#e4e4e4" stroke-width="1"/>
+        <g id="cursor" transform="translate(537 576)" clip-path="url(#clip-path-5)">
+          <g id="Group_68324" data-name="Group 68324" clip-path="url(#clip-path-6)">
+            <path id="Path_61008" data-name="Path 61008" d="M-4,3.652H14.879V-22H-4Z" transform="translate(0 18)"/>
+          </g>
+        </g>
+        <g id="Group_68560" data-name="Group 68560">
+          <g id="Plugin_logo_example" data-name="Plugin logo example" transform="translate(430 789)" fill="#fff" stroke="#dae2f4" stroke-width="1">
+            <rect width="24" height="24" rx="2" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="23" rx="1.5" fill="none"/>
+          </g>
+          <path id="Path_61101" data-name="Path 61101" d="M6.164,0c3.4,0,6.164,5.4,6.164,12.068S0,18.733,0,12.068,2.76,0,6.164,0Z" transform="translate(435.991 792.604)" fill="#dae2f4"/>
+          <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(435.991 792.604)" clip-path="url(#clip-path-7)">
+            <g id="Group_68559" data-name="Group 68559" transform="translate(-0.232 3.157)">
+              <path id="Path_61102" data-name="Path 61102" d="M-.053,1.675,3.874-.513,6.619,1.675,9.114-.513l3.393,2.188" transform="translate(0.053 4.29)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+              <path id="Path_61103" data-name="Path 61103" d="M-.053,1.26,3.227-.513,5.52,1.26,7.6-.513,10.439,1.26" transform="translate(1.249 0.513)" fill="none" stroke="#496ec2" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+              <path id="Path_61104" data-name="Path 61104" d="M-.053,1.675,3.874-.513,6.619,1.675,9.114-.513l3.393,2.188" transform="translate(0.053 8.299)" fill="none" stroke="#496ec2" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+            </g>
+          </g>
+        </g>
+        <rect id="Background-14" data-name="Background" width="24" height="24" rx="2" transform="translate(430 509)" fill="#34aecb"/>
+        <path id="award001_-_E0FB" data-name="award001 - E0FB" d="M1.277-9.4c.228-.228.441-.441.655-.441.057,0,.185.028.612.114l.5.114.043.014h.071c.028,0,.071.014.128.014a1.165,1.165,0,0,0,1.082-.783l.327-1.011a.346.346,0,0,1,.242-.242l1.011-.327a1.165,1.165,0,0,0,.783-1.082.316.316,0,0,0-.014-.128v-.071l-.242-1.082v-.071a.449.449,0,0,1,.1-.27l.285-.3c.541-.612.712-.783.712-1.239s-.157-.626-.683-1.2l-.313-.356a.343.343,0,0,1-.1-.256c.014-.085.085-.47.142-.7a4.46,4.46,0,0,0,.114-.655,1.128,1.128,0,0,0-.783-1.068l-1-.327a.387.387,0,0,1-.256-.242l-.327-1.025a1.146,1.146,0,0,0-1.082-.783,4.846,4.846,0,0,0-.7.128c-.228.057-.569.128-.655.142-.2,0-.413-.214-.626-.441a1.727,1.727,0,0,0-1.182-.669,1.766,1.766,0,0,0-1.167.655c-.214.228-.427.441-.612.456l-.5-.1a5.224,5.224,0,0,0-.883-.171,1.128,1.128,0,0,0-1.068.783L-4.432-21a.385.385,0,0,1-.256.256l-1.011.327a1.128,1.128,0,0,0-.783,1.068,6.167,6.167,0,0,0,.142.755l.128.612a.383.383,0,0,1-.114.256l-.4.441c-.427.47-.6.655-.6,1.1s.171.641.7,1.21l.313.327a.449.449,0,0,1,.1.27l-.014.028v.043l-.214,1.039-.014.014a.892.892,0,0,0-.028.228A1.165,1.165,0,0,0-5.7-11.944l1.025.327a.387.387,0,0,1,.242.256l.327,1c.157.47,1.452.726,1.851.641.2-.043.5-.114.569-.114.214,0,.413.2.655.441A3.077,3.077,0,0,0,1.277-9.4ZM.124-12.784a3.4,3.4,0,0,1-3.4-3.4,3.421,3.421,0,0,1,3.4-3.4,3.4,3.4,0,0,1,3.4,3.4A3.4,3.4,0,0,1,.124-12.784Zm0-.74a2.649,2.649,0,0,0,2.662-2.662A2.667,2.667,0,0,0,.124-18.849a2.667,2.667,0,0,0-2.662,2.662A2.667,2.667,0,0,0,.124-13.524Z" transform="translate(441.766 537.076)" fill="#f7f7f7" stroke="#34aecb" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_68730" data-name="Group 68730">
+      <g id="Group_68729" data-name="Group 68729">
+        <g id="Group_68727" data-name="Group 68727">
+          <rect id="Color_Fill-2" data-name="Color Fill" width="242" height="960" rx="4" transform="translate(1870 1705)" fill="#fff"/>
+          <g id="Component-2" data-name="Component" transform="translate(1894 1729)">
+            <g id="Panel_Background-2" data-name="Panel Background">
+              <rect id="Background-15" data-name="Background" width="194" height="912" fill="#f5f5f5"/>
+              <rect id="Bottom_Vertical_Space-2" data-name="Bottom Vertical Space" width="194" height="24" transform="translate(0 888)" fill="#f5f5f5"/>
+              <rect id="Divider-2" data-name="Divider" width="194" height="2" transform="translate(0 910)" fill="#ddd"/>
+              <rect id="Heading_Vertical_Space-2" data-name="Heading Vertical Space" width="194" height="48" fill="#f5f5f5"/>
+              <text id="Section_Heading-2" data-name="Section Heading" transform="translate(12 30)" fill="#8e8e8e" font-size="9" font-family="SFProText-Regular, SF Pro Text" letter-spacing="0.12em"><tspan x="0" y="0">PLUGINS</tspan></text>
+            </g>
+            <g id="Add_Icon-2" data-name="Add Icon" transform="translate(166 20)" clip-path="url(#clip-path)">
+              <g id="target_area_14px-2" data-name="target area 14px">
+                <rect id="Rectangle_147390-2" data-name="Rectangle 147390" width="14" height="14" fill="#c4c4c4" opacity="0"/>
+              </g>
+              <path id="Path_61100-2" data-name="Path 61100" d="M9.435-19.807H5.871v-3.564A.628.628,0,0,0,5.242-24a.628.628,0,0,0-.629.629v3.564H.629A.628.628,0,0,0,0-19.178a.628.628,0,0,0,.629.629H4.613v3.984a.628.628,0,0,0,.629.629.628.628,0,0,0,.629-.629v-3.984H9.435a.628.628,0,0,0,.629-.629.628.628,0,0,0-.629-.629" transform="translate(1.995 25.97)" fill="#666" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+        <g id="Plugin_panel_menu" data-name="Plugin panel menu" transform="translate(1824 1267)">
+          <rect id="Background-16" data-name="Background" width="170" height="34" rx="2" transform="translate(82 580)" fill="#fff"/>
+          <text id="Vidz-2" data-name="Vidz" transform="translate(116 600)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Vidz</tspan></text>
+          <g id="Plugin_Icon-6" data-name="Plugin Icon" transform="translate(12 -791)">
+            <g id="Background-17" data-name="Background" transform="translate(75 1376)" fill="none" stroke="#e3e3e3" stroke-width="1">
+              <rect width="24" height="24" rx="2" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="23" rx="1.5" fill="none"/>
+            </g>
+            <circle id="Ellipse_20158-2" data-name="Ellipse 20158" cx="5" cy="5" r="5" transform="translate(82 1383)" fill="#d10061"/>
+          </g>
+          <rect id="Background-18" data-name="Background" width="170" height="34" rx="2" transform="translate(82 694)" fill="#fff"/>
+          <text id="Cleanups-2" data-name="Cleanups" transform="translate(116 714)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Cleanups</tspan></text>
+          <g id="Plugin_Icon-7" data-name="Plugin Icon" transform="translate(-10 700)">
+            <rect id="Background-19" data-name="Background" width="24" height="24" rx="2" transform="translate(97 -1)" fill="url(#linear-gradient)"/>
+            <path id="Path_60960-2" data-name="Path 60960" d="M0,6.974H8.5V11.81l-2.754,2.6H2.6A2.6,2.6,0,0,1,0,11.81Z" transform="translate(111.088 3.399) rotate(45)" fill="#fff" opacity="0.7"/>
+            <rect id="Rectangle_147493-2" data-name="Rectangle 147493" width="8.503" height="6.535" transform="translate(111.088 3.399) rotate(45)" fill="#fff"/>
+          </g>
+          <g id="Dropdown_-_Chevron-4" data-name="Dropdown - Chevron" transform="translate(233 704)" clip-path="url(#clip-path)">
+            <rect id="Rectangle_147391-5" data-name="Rectangle 147391" width="14" height="14" fill="#fff" opacity="0"/>
+            <path id="Dropdown-4" data-name="Dropdown" d="M0,4,4,0,8,4" transform="translate(9 3) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <rect id="Background-20" data-name="Background" width="170" height="34" rx="2" transform="translate(82 542)" fill="#fff"/>
+          <text id="Copy_Code-2" data-name="Copy Code" transform="translate(116 562)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Copy Code</tspan></text>
+          <g id="Plugin_icon-8" data-name="Plugin icon" transform="translate(-54 -820)">
+            <rect id="Background-21" data-name="Background" width="24" height="24" rx="2" transform="translate(141 1367)" fill="#0da3d0"/>
+            <g id="Group_68322-2" data-name="Group 68322">
+              <path id="Rectangle_147500-2" data-name="Rectangle 147500" d="M0,0H0A11,11,0,0,1,11,11v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(144 1377)" fill="#fff"/>
+              <path id="Rectangle_147501-2" data-name="Rectangle 147501" d="M0,0H7A11,11,0,0,1,18,11v6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(144 1371)" fill="#fff" opacity="0.4"/>
+            </g>
+          </g>
+          <rect id="Background-22" data-name="Background" width="170" height="34" rx="2" transform="translate(82 656)" fill="#fff"/>
+          <text id="Fill_Content-2" data-name="Fill Content" transform="translate(116 676)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Fill Content</tspan></text>
+          <g id="Plugin_Icon-9" data-name="Plugin Icon" transform="translate(-10 624)">
+            <rect id="Background-23" data-name="Background" width="24" height="24" rx="2" transform="translate(97 37)" fill="#409af5"/>
+            <path id="Rectangle_147490-2" data-name="Rectangle 147490" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(104.582 43.582)" fill="#cce6ff" opacity="0.3"/>
+            <path id="Rectangle_147491-2" data-name="Rectangle 147491" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(106.251 45.251)" fill="#cce6ff" opacity="0.3"/>
+            <path id="Path_60959-2" data-name="Path 60959" d="M1.669,0H8.344V8.344H0V1.669A1.669,1.669,0,0,1,1.669,0Z" transform="translate(107.92 46.92)" fill="#cce6ff" opacity="0.3"/>
+            <path id="Rectangle_147494-2" data-name="Rectangle 147494" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(107.119 46.119)" fill="#cce6ff" opacity="0.3"/>
+            <path id="Rectangle_147495-2" data-name="Rectangle 147495" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(108.788 47.788)" fill="#cce6ff" opacity="0.3"/>
+            <path id="Rectangle_147496-2" data-name="Rectangle 147496" d="M2,0H8.344a0,0,0,0,1,0,0V8.344a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(109.656 48.656)" fill="#cce6ff" opacity="0.3"/>
+            <path id="Rectangle_147497-2" data-name="Rectangle 147497" d="M2,0H8.344a0,0,0,0,1,0,0V6.344a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(111.325 50.325)" fill="#cce6ff" opacity="0.3"/>
+          </g>
+          <rect id="Background-24" data-name="Background" width="170" height="34" rx="2" transform="translate(82 504)" fill="#fff"/>
+          <text id="ProTally-2" data-name="ProTally" transform="translate(116 524)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">ProTally</tspan></text>
+          <rect id="Background-25" data-name="Background" width="170" height="34" rx="2" transform="translate(82 618)" fill="#fff"/>
+          <text id="Mockit-2" data-name="Mockit" transform="translate(116 638)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Mockit</tspan></text>
+          <g id="Background-26" data-name="Background" transform="translate(87 623)" fill="#fff" stroke="#e3e3e3" stroke-width="1">
+            <rect width="24" height="24" rx="2" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="23" rx="1.5" fill="none"/>
+          </g>
+          <g id="Plugin_Icon-10" data-name="Plugin Icon">
+            <text id="M-2" data-name="M" transform="translate(99 642)" fill="#6264d2" font-size="20" font-family="GillSans-Bold, Gill Sans" font-weight="700"><tspan x="-9.58" y="0">M</tspan></text>
+          </g>
+          <rect id="Background-27" data-name="Background" width="170" height="34" rx="2" transform="translate(82 732)" fill="#fff"/>
+          <text id="Plugin_Name-2" data-name="Plugin Name" transform="translate(116 752)" fill="#8e8e8e" font-size="10" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="0">Plugin Name</tspan></text>
+          <g id="Dropdown_-_Chevron-5" data-name="Dropdown - Chevron" transform="translate(233 742)" clip-path="url(#clip-path)">
+            <rect id="Rectangle_147391-6" data-name="Rectangle 147391" width="14" height="14" fill="#fff" opacity="0"/>
+            <path id="Dropdown-5" data-name="Dropdown" d="M0,4,4,0,8,4" transform="translate(9 3) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <rect id="Rectangle_147391-7" data-name="Rectangle 147391" width="14" height="14" transform="translate(233 514)" fill="#fff" opacity="0"/>
+          <g id="Dropdown_-_Chevron-6" data-name="Dropdown - Chevron" transform="translate(233 514)" clip-path="url(#clip-path)">
+            <rect id="Rectangle_147391-8" data-name="Rectangle 147391" width="14" height="14" fill="#fff" opacity="0"/>
+            <path id="Dropdown-6" data-name="Dropdown" d="M0,4,4,0,8,4" transform="translate(9 3) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <g id="Plugin_logo_example-2" data-name="Plugin_logo_example" transform="translate(-641 228)">
+            <g id="Plugin_logo_example-3" data-name="Plugin logo example" transform="translate(728 509)" fill="#fff" stroke="#dae2f4" stroke-width="1">
+              <rect width="24" height="24" rx="2" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="23" rx="1.5" fill="none"/>
+            </g>
+            <path id="Path_60986" data-name="Path 60986" d="M6.164,0c3.4,0,6.164,5.4,6.164,12.068S0,18.733,0,12.068,2.76,0,6.164,0Z" transform="translate(733.991 512.604)" fill="#dae2f4"/>
+            <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(733.991 512.604)" clip-path="url(#clip-path-7)">
+              <g id="Group_68242" data-name="Group 68242" transform="translate(-0.232 3.157)">
+                <path id="Path_60988" data-name="Path 60988" d="M-.053,1.675,3.874-.513,6.619,1.675,9.114-.513l3.393,2.188" transform="translate(0.053 4.29)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+                <path id="Path_60990" data-name="Path 60990" d="M-.053,1.26,3.227-.513,5.52,1.26,7.6-.513,10.439,1.26" transform="translate(1.249 0.513)" fill="none" stroke="#496ec2" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+                <path id="Path_60989" data-name="Path 60989" d="M-.053,1.675,3.874-.513,6.619,1.675,9.114-.513l3.393,2.188" transform="translate(0.053 8.299)" fill="none" stroke="#496ec2" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.4"/>
+              </g>
+            </g>
+          </g>
+          <rect id="Background-28" data-name="Background" width="24" height="24" rx="2" transform="translate(87 509)" fill="#34aecb"/>
+          <path id="award001_-_E0FB-2" data-name="award001 - E0FB" d="M1.277-9.4c.228-.228.441-.441.655-.441.057,0,.185.028.612.114l.5.114.043.014h.071c.028,0,.071.014.128.014a1.165,1.165,0,0,0,1.082-.783l.327-1.011a.346.346,0,0,1,.242-.242l1.011-.327a1.165,1.165,0,0,0,.783-1.082.316.316,0,0,0-.014-.128v-.071l-.242-1.082v-.071a.449.449,0,0,1,.1-.27l.285-.3c.541-.612.712-.783.712-1.239s-.157-.626-.683-1.2l-.313-.356a.343.343,0,0,1-.1-.256c.014-.085.085-.47.142-.7a4.46,4.46,0,0,0,.114-.655,1.128,1.128,0,0,0-.783-1.068l-1-.327a.387.387,0,0,1-.256-.242l-.327-1.025a1.146,1.146,0,0,0-1.082-.783,4.846,4.846,0,0,0-.7.128c-.228.057-.569.128-.655.142-.2,0-.413-.214-.626-.441a1.727,1.727,0,0,0-1.182-.669,1.766,1.766,0,0,0-1.167.655c-.214.228-.427.441-.612.456l-.5-.1a5.224,5.224,0,0,0-.883-.171,1.128,1.128,0,0,0-1.068.783L-4.432-21a.385.385,0,0,1-.256.256l-1.011.327a1.128,1.128,0,0,0-.783,1.068,6.167,6.167,0,0,0,.142.755l.128.612a.383.383,0,0,1-.114.256l-.4.441c-.427.47-.6.655-.6,1.1s.171.641.7,1.21l.313.327a.449.449,0,0,1,.1.27l-.014.028v.043l-.214,1.039-.014.014a.892.892,0,0,0-.028.228A1.165,1.165,0,0,0-5.7-11.944l1.025.327a.387.387,0,0,1,.242.256l.327,1c.157.47,1.452.726,1.851.641.2-.043.5-.114.569-.114.214,0,.413.2.655.441A3.077,3.077,0,0,0,1.277-9.4ZM.124-12.784a3.4,3.4,0,0,1-3.4-3.4,3.421,3.421,0,0,1,3.4-3.4,3.4,3.4,0,0,1,3.4,3.4A3.4,3.4,0,0,1,.124-12.784Zm0-.74a2.649,2.649,0,0,0,2.662-2.662A2.667,2.667,0,0,0,.124-18.849a2.667,2.667,0,0,0-2.662,2.662A2.667,2.667,0,0,0,.124-13.524Z" transform="translate(98.766 537.076)" fill="#f7f7f7" stroke="#34aecb" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_68726" data-name="Group 68726">
+        <text id="Plugin_Icon_Size" data-name="Plugin Icon Size" transform="translate(1912 2062)" fill="#2f2f2f" font-size="15" font-family="Helvetica"><tspan x="0" y="0">Plugin Icon Size</tspan></text>
+        <text id="_24_px" data-name="24 px" transform="translate(1912 2123)" fill="#2f2f2f" font-size="15" font-family="Helvetica"><tspan x="0" y="0">24 px</tspan></text>
+        <text id="_24_px-2" data-name="24 px" transform="translate(1940 2091)" fill="#2f2f2f" font-size="15" font-family="Helvetica"><tspan x="0" y="0">24 px</tspan></text>
+        <rect id="plugin_logo_spec" data-name="plugin logo spec" width="24.6" height="24.6" rx="2" transform="translate(1911 2076)" fill="#2f2f2f"/>
+        <line id="Line_6232" data-name="Line 6232" y2="17" transform="translate(1923.5 2028.5)" fill="none" stroke="#2f2f2f" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
